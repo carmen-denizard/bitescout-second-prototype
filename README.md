@@ -10,4 +10,4 @@ The first prototype was built with v0 in accordance with the Vercel mission in H
 
 **See the first interactive prototype here**: [Bitescout - v0.1](https://bitescout-landing-page.v0.build/)
 
-**GitHub link here**: [Bitescount v0.1 - GitHub]()
+**GitHub link here**: [Bitescout v0.1 - GitHub]()
